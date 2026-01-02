@@ -13,8 +13,8 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-BOT_TOKEN = "8250661516:AAHNwNWH1JWFK83FDCv6juuptqUvAqPNA98"
-ADMIN_CODE = "60731"  
+BOT_TOKEN = "8555066285:AAFT14hwN1KWMIq7GkPf9SEdOJvXsEQpuI8"
+ADMIN_CODE = "121314"  
 MOVIES_FILE = "movies.json"
 ADMINS_FILE = "admins.json" 
 if os.path.exists(MOVIES_FILE):
